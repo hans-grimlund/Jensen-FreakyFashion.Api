@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FreakyFashion.Core", "FreakyFashion.Core\FreakyFashion.Core.csproj", "{3D19BD7D-F864-49A4-834A-EA81DAB97040}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FreakyFashion.Data", "FreakyFashion.Data\FreakyFashion.Data.csproj", "{87A89487-CEB6-4214-9867-2A6610730373}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FreakyFashion.Domain", "FreakyFashion.Domain\FreakyFashion.Domain.csproj", "{9916416B-F4BC-4ED5-8930-7B9F089005BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FreakyFashion.Api", "FreakyFashion.Api\FreakyFashion.Api.csproj", "{BADF393E-21E6-4327-8E9A-0502DAE656DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D19BD7D-F864-49A4-834A-EA81DAB97040}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D19BD7D-F864-49A4-834A-EA81DAB97040}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D19BD7D-F864-49A4-834A-EA81DAB97040}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D19BD7D-F864-49A4-834A-EA81DAB97040}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87A89487-CEB6-4214-9867-2A6610730373}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87A89487-CEB6-4214-9867-2A6610730373}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87A89487-CEB6-4214-9867-2A6610730373}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87A89487-CEB6-4214-9867-2A6610730373}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9916416B-F4BC-4ED5-8930-7B9F089005BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9916416B-F4BC-4ED5-8930-7B9F089005BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9916416B-F4BC-4ED5-8930-7B9F089005BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9916416B-F4BC-4ED5-8930-7B9F089005BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BADF393E-21E6-4327-8E9A-0502DAE656DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BADF393E-21E6-4327-8E9A-0502DAE656DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BADF393E-21E6-4327-8E9A-0502DAE656DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BADF393E-21E6-4327-8E9A-0502DAE656DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
